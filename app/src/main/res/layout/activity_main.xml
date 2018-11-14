@@ -14,7 +14,7 @@
         android:textSize="25dp"
         android:textColor="#000"
         android:textStyle="bold"
-        android:text="App Title"/>
+        android:text="Rotaract"/>
    <Button
        android:layout_width="150dp"
        android:layout_height="100dp"
