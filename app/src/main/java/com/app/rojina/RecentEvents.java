@@ -33,7 +33,7 @@ public class RecentEvents extends AppCompatActivity {
   //  private String url = "https://raw.githubusercontent.com/sagarparajuli02/LiveCricktetData/master/schedule";
    // https://rojina.000webhostapp.com/sagar/recent.php
 
-    private String url = "rojina.000webhostapp.com/sagar/recent.php";
+    private String url = "http://rojina.000webhostapp.com/sagar/recent.php";
     private RecyclerView mList;
 
     private LinearLayoutManager linearLayoutManager;
